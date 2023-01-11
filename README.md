@@ -7,7 +7,7 @@ Assess the technical ease and knowledge of developers on backend and frontend to
 1. Clone and Install dependencies with npm
 
 ```bash
-  git clone https://github.com/Godswilldev/castor
+  git clone https://github.com/Godswilldev/castor.git
 ```
 
 ```bash
